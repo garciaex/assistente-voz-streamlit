@@ -1,0 +1,6 @@
+streamlit
+SpeechRecognition
+gtts
+chatterbot
+transformers
+torch
